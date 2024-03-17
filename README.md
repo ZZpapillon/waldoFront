@@ -9,7 +9,7 @@ Check out the live demo here: [Live Website](https://waldo-front.vercel.app/) (N
 
 ## Backend Code Repo
 
-Check out the backend code repo here: [Live Website](https://github.com/ZZpapillon/waldoBack) (Note: clicking will navigate away from this page)
+Check out the backend code repo here: [Backend Repo](https://github.com/ZZpapillon/waldoBack) (Note: clicking will navigate away from this page)
 
 ## Video Walkthrough
 
